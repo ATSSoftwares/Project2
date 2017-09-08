@@ -17,6 +17,7 @@ public class JavaApplication5 {
     public static void main(String[] args) {
        System.out.print("drhgrd");
        System.out.print("hello");
+       System.out.print("hgfhgf");
     }
     
 }
