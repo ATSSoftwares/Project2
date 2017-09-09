@@ -18,6 +18,7 @@ public class JavaApplication5 {
        System.out.print("drhgrd");
        System.out.print("hello");
        System.out.print("hgfhgf");
+       System.out.print("hi");
     }
     
 }
